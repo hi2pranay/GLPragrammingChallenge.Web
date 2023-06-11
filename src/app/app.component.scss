@@ -1,0 +1,24 @@
+app-footer
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.add-btn
+{
+    display: block;
+    font-size: .9rem;
+    background-color: #d71920;
+    border-radius: 100px;
+    border-width: 0;
+    padding: 7px 20px;
+    margin-right: 0;
+    color: #fff;
+    -webkit-box-shadow: 0 4px 10px 0 rgba(0,0,0,.1);
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,.1);
+    cursor: pointer;
+    -webkit-transition: background-color .2s linear;
+    transition: background-color .2s linear;
+    text-decoration: none;
+}
